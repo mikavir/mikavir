@@ -1,8 +1,12 @@
 # Mikaela Virtucio
 ## About Me
-- I am an aspiring software developer
+
+*A programmer that embraces their cognitive masochism*
+
+- I am an junior software developer
 - Student in Code Institute
 - Hackathon enthuist
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikaela-virtucio-b01962274) 
@@ -13,7 +17,8 @@
 
 ### [Rx Decoder](https://github.com/mikavir/rx-decoder 'repository')
 ![screenshot](documentation/rx-logo-2.png)
-**Ongoing Project*
+*Ongoing Project*
+
 An interactive game application using JavaScript to guess the drug name. 
 
 *Technologies Used:*
