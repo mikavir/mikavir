@@ -16,7 +16,7 @@
 # Projects:
 
 ### [Rx Decoder](https://github.com/mikavir/rx-decoder 'repository')
-![screenshot](documentation/rx-logo-2.png)
+
 *Ongoing Project*
 
 An interactive game application using JavaScript to guess the drug name. 
@@ -55,7 +55,7 @@ An interactive game application using JavaScript to guess the drug name.
 
 ### [Date Knight](https://github.com/mikavir/date-knight 'repository')
 
-![screenshot](documentation/date-knight-logo.png)
+ 
  A collabarative project created for Code Institute February Hackathon
 
 *Technology used:*
